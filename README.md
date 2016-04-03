@@ -1,1 +1,1 @@
-This repository is moved to ["qstack"](https://github.com/prasanthi-paladugu/frage)
+This repository is moved to ["Frage"](https://github.com/prasanthi-paladugu/frage)
